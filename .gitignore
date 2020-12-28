@@ -1,0 +1,3 @@
+sim/ptest/*.ys
+sim/seq/seq-*.c
+sim/seq/ssim
